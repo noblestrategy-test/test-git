@@ -1,5 +1,3 @@
 <?php
 
-echo "Version master 16";
-
-echo "";
+echo "Version master 17";
