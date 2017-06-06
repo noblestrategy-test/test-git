@@ -1,3 +1,3 @@
 <?php
 
-echo "Version master 2";
+echo "Version master 3";
